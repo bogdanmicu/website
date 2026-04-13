@@ -3,7 +3,7 @@ A fingerprint-authenticated hardware vault that types your passwords and generat
 
 :::info
 **Author**: Micu Bogdan-Cristian \
-**Group**: 1221EA
+**Group**: 1221EA \
 **GitHub Project Link**: https://github.com/UPB-PMRust-Students/project-2026-bogdanmicu
 
 :::
